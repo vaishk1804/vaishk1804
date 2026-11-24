@@ -15,7 +15,7 @@ Software engineer focused on AI and full-stack work. I completed my M.S. in Comp
 |---|---|---|
 | [**PitWall AI**](https://github.com/vaishk1804/pitwall-ai) | Claude tool-use agent that answers F1 questions from live OpenF1 data, with confidence caps and an eval gate in CI | Anthropic SDK, FastAPI, React, TypeScript |
 | [**AirWatch**](https://github.com/vaishk1804/airwatch) | Near real-time air quality platform; scaled the API from 63 RPS at 74% errors to 230 RPS with 0 errors | FastAPI, PostgreSQL, Celery, Redis, React |
-| [**LexRAG**](https://github.com/vaishk1804/LEXRAG-REPO-NAME) | Hybrid BM25 + dense retrieval over 510 legal contracts; a fine-tuned embedding model lifted top-1 retrieval from 3.5% to 8.0% | Python, ChromaDB, RRF |
+| [**LexRAG**](https://github.com/vaishk1804/lexrag) | Hybrid BM25 + dense retrieval over 510 legal contracts; a fine-tuned embedding model lifted top-1 retrieval from 3.5% to 8.0% | Python, ChromaDB, RRF |
 | [**Stock Market ELT Pipeline**](https://github.com/vaishk1804/STOCK-REPO-NAME) | 16-task Airflow DAG with a validation gate, idempotent Kafka writes and a dead-letter queue, modelled in dbt | Airflow, Kafka, dbt, Docker |
 | [**SAV_535**](https://github.com/vaishk1804/SAV_535) | 32-bit RISC CPU simulator with an assembler and 5-stage pipeline; 4.4× and 5.6× speedups. Built with Sanchita Thayagaran, who owned the memory hierarchy | C++17, Qt, CMake |
 
